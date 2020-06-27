@@ -1,0 +1,6 @@
+D:\study\AVS\AVS\Emulator\obj\Debug\Emulator.csprojResolveAssemblyReference.cache
+D:\study\AVS\AVS\Emulator\bin\Debug\Emulator.exe.config
+D:\study\AVS\AVS\Emulator\bin\Debug\Emulator.exe
+D:\study\AVS\AVS\Emulator\bin\Debug\Emulator.pdb
+D:\study\AVS\AVS\Emulator\obj\Debug\Emulator.exe
+D:\study\AVS\AVS\Emulator\obj\Debug\Emulator.pdb

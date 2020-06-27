@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Стартап выходного дня</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="apple-touch-icon" href="../icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="../css/main.css">
+
+  <meta name="theme-color" content="#fafafa">
+
+  <script src="../js/jquery-3.3.1.min.js"></script>
+  <script src="../js/main.js"></script>
+  <script>
+    $(function () {
+      $("#common_header").load("../templates/header.html");
+      $("#common_footer").load("../templates/footer.html");
+      $("#blog").load("../templates/blog.html");
+      $("#recommendations").load("../templates/recommendations.html");
+    });
+  </script>
+</head>
+
+
+<body>
+<div id="common_header"></div>
+
+<div class="row">
+  <div id="blog"></div>
+  <div id="recommendations"></div>
+</div>
+
+<!-- Footer -->
+<div id="common_footer"></div>
+
+</body>
+</html>

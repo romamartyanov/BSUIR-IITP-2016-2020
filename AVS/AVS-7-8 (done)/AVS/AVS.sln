@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emulator", "Emulator\Emulator.csproj", "{2BCED2CD-0884-4723-9769-B7823B921398}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatEmulator", "FloatEmulator\FloatEmulator.csproj", "{9BE508F9-E04E-4DA3-84FC-559CAD13F676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticCoprocessor", "QuadraticCoprocessor\QuadraticCoprocessor.csproj", "{EDC7455F-9F36-4914-B0DD-A439D563BE92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BCED2CD-0884-4723-9769-B7823B921398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BCED2CD-0884-4723-9769-B7823B921398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BCED2CD-0884-4723-9769-B7823B921398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BCED2CD-0884-4723-9769-B7823B921398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BE508F9-E04E-4DA3-84FC-559CAD13F676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE508F9-E04E-4DA3-84FC-559CAD13F676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE508F9-E04E-4DA3-84FC-559CAD13F676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE508F9-E04E-4DA3-84FC-559CAD13F676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC7455F-9F36-4914-B0DD-A439D563BE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC7455F-9F36-4914-B0DD-A439D563BE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC7455F-9F36-4914-B0DD-A439D563BE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC7455F-9F36-4914-B0DD-A439D563BE92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

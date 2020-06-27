@@ -1,0 +1,13 @@
+E:\University\Laboratory works\CSharp\WPF_labs\WPF_Material_Design\Plugin\bin\Debug\Plugin.exe.config
+E:\University\Laboratory works\CSharp\WPF_labs\WPF_Material_Design\Plugin\bin\Debug\Plugin.exe
+E:\University\Laboratory works\CSharp\WPF_labs\WPF_Material_Design\Plugin\bin\Debug\Plugin.pdb
+E:\University\Laboratory works\CSharp\WPF_labs\WPF_Material_Design\Plugin\obj\Debug\Plugin.csproj.CoreCompileInputs.cache
+E:\University\Laboratory works\CSharp\WPF_labs\WPF_Material_Design\Plugin\obj\Debug\Plugin.exe
+E:\University\Laboratory works\CSharp\WPF_labs\WPF_Material_Design\Plugin\obj\Debug\Plugin.pdb
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\Plugin\bin\Debug\Plugin.exe.config
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\Plugin\bin\Debug\Plugin.exe
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\Plugin\bin\Debug\Plugin.pdb
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\Plugin\obj\Debug\Plugin.csproj.CoreCompileInputs.cache
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\Plugin\obj\Debug\Plugin.exe
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\Plugin\obj\Debug\Plugin.pdb
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\Plugin\obj\Debug\Plugin.csprojResolveAssemblyReference.cache

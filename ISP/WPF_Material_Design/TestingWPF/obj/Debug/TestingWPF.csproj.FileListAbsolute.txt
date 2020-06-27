@@ -1,0 +1,7 @@
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\TestingWPF\bin\Debug\TestingWPF.exe.config
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\TestingWPF\bin\Debug\TestingWPF.exe
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\TestingWPF\bin\Debug\TestingWPF.pdb
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\TestingWPF\obj\Debug\TestingWPF.csproj.CoreCompileInputs.cache
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\TestingWPF\obj\Debug\TestingWPF.exe
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\TestingWPF\obj\Debug\TestingWPF.pdb
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\TestingWPF\obj\Debug\TestingWPF.csprojResolveAssemblyReference.cache

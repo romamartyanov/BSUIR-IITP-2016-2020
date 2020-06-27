@@ -1,0 +1,276 @@
+* {
+  box-sizing: border-box;
+}
+
+/* Add a gray background color with some padding */
+body {
+  font-family: Arial;
+  padding: 20px;
+  background: #f1f1f1;
+}
+
+/* Header/Blog Title */
+.header {
+  padding: 10px;
+  font-size: 40px;
+  text-align: center;
+  background: var(--card-bg);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding:0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover{
+  background-color: red;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 480px) {
+
+  .header {
+    font-size: 20px;
+  }
+}
+
+#header_content {
+  align-content: center;
+}
+
+#header_content img {
+  margin-right: 10px;
+  height: 70px;
+  width: 70px;
+}
+
+:root {
+  --bg: #f1f1f1;
+  --card-bg: white;
+  --text-color: black;
+  --link-color: #375387;
+  --link-hover: #124263;
+}
+
+.funky {
+  --bg: #00242f;
+  --card-bg: #002b36;
+  --text-color: white;
+  --link-color: #B793E6;
+  --link-hover: #3532A7;
+}
+
+
+body {
+  background: var(--bg);
+  color: var(--text-color);
+}
+
+a, a:link {
+  color: var(--link-color);
+}
+a:hover {
+  color: var(--link-hover);
+}
+
+li label {
+  text-align: right;
+  padding: 10px;
+}
+
+.toggle-theme {
+  position: relative;
+  top: 5px;
+  bottom: 5px;
+  right: 3px;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.toggle-theme input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+#blog {
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 70%;
+}
+
+/* Right column */
+#recommendations {
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 25%;
+}
+
+/* Fake image */
+.fakeimg {
+  background-color: var(--card-bg);
+  width: 100%;
+  padding: 20px;
+}
+
+/* Add a card effect for articles */
+.card {
+  background-color: var(--card-bg);
+  padding: 20px;
+  margin-top: 20px;
+}
+
+/* Clear floats after the columns */
+/*.row:after {*/
+  /*content: "";*/
+  /*display: table;*/
+  /*clear: both;*/
+/*}*/
+
+
+
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: var(--card-bg);
+  margin-top: 20px;
+}
+
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+  .blog, .recommendations {
+    width: 100%;
+    padding: 0;
+  }
+}
+
+img {
+  max-width: 75%;
+  height: auto;
+}
+
+#social {
+  align-content: center;
+}
+
+#social img {
+  margin-right: 10px;
+  height: 20px;
+  width: 20px;
+}
+
+#recommendations img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+@media print {
+  ul, #recommendations, #social, .footer {
+    display: none;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    page-break-inside: avoid;
+    page-break-after: avoid;
+  }
+
+  .header {
+    padding: 1mm;
+    font-size: 5mm;
+    text-align: center;
+    background: white;
+  }
+
+  #header_content img {
+    margin-right: 1cm;
+    height: 1cm;
+    width: 1cm;
+  }
+
+  .blog {
+    float: left;
+    width: 100%;
+  }
+}

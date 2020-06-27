@@ -1,0 +1,16 @@
+E:\University\Laboratory works\CSharp\WPF_labs\WPF_Material_Design\WPFLibrary\bin\Debug\WPFLibrary.dll
+E:\University\Laboratory works\CSharp\WPF_labs\WPF_Material_Design\WPFLibrary\bin\Debug\WPFLibrary.pdb
+E:\University\Laboratory works\CSharp\WPF_labs\WPF_Material_Design\WPFLibrary\obj\Debug\WPFLibrary.csprojResolveAssemblyReference.cache
+E:\University\Laboratory works\CSharp\WPF_labs\WPF_Material_Design\WPFLibrary\obj\Debug\WPFLibrary.csproj.CoreCompileInputs.cache
+E:\University\Laboratory works\CSharp\WPF_labs\WPF_Material_Design\WPFLibrary\obj\Debug\WPFLibrary.dll
+E:\University\Laboratory works\CSharp\WPF_labs\WPF_Material_Design\WPFLibrary\obj\Debug\WPFLibrary.pdb
+E:\University\Laboratory works\CSharp\WPF_labs\WPF_Material_Design\WPFLibrary\bin\Debug\Plugin.exe
+E:\University\Laboratory works\CSharp\WPF_labs\WPF_Material_Design\WPFLibrary\bin\Debug\Plugin.pdb
+E:\University\Laboratory works\CSharp\WPF_labs\WPF_Material_Design\WPFLibrary\bin\Debug\Plugin.exe.config
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\WPFLibrary\bin\Debug\WPFLibrary.dll
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\WPFLibrary\bin\Debug\WPFLibrary.pdb
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\WPFLibrary\bin\Debug\Plugin.exe
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\WPFLibrary\obj\Debug\WPFLibrary.csprojResolveAssemblyReference.cache
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\WPFLibrary\obj\Debug\WPFLibrary.csproj.CoreCompileInputs.cache
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\WPFLibrary\obj\Debug\WPFLibrary.dll
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\WPFLibrary\obj\Debug\WPFLibrary.pdb

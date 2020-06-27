@@ -1,0 +1,15 @@
+# Мартьянов Роман, 653502
+# https://www.21vek.by/mobile/
+#
+Manufactures:        Apple, BQ, Honor, Huawei, Nokia, Samsung, Xiaomi, HTC, Meizu, OnePlus, Sony, Vertex
+Type:                Smartphone, Mobile phone
+Operation system:    Android, iOS, Nucleus, RTOS, S30, Windows Phone, ThreadX
+Screen technology:   Dynamic AMOLED, Super AMOLED, AMOLED, IPS, TFT, LTPS, OLED
+RAM:                 1, 2, 3, 4, 6, 8, 12
+Flash memory:        4, 8, 16, 32, 64, 128, 256, 512
+Camera:              8, 12, 13, 25, 40, 48, 64
+Number of SIM cards: 1, 2, 3, 4
+Camera resolution:   13, 16, 19, 20, 21, 23, 24, 25, 32, 40, 48, 64
+Memory card support: yes, microSD, microSDHC, microSDXC, nm card, no
+Bluetooth:           yes, no
+Charge Process:      Standard, Quick, Wireless, Reverse

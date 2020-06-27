@@ -1,0 +1,1 @@
+xcopy /Y dosbox-0.74.conf %UserProfile%\AppData\Local\DOSBox\

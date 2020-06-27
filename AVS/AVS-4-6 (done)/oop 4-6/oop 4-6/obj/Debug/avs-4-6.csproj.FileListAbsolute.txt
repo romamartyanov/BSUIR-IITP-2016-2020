@@ -1,0 +1,14 @@
+E:\University\Laboratory works\AoCS\oop 4-6\oop 4-6\oop 4-6\bin\Debug\oop 4-6.exe.config
+E:\University\Laboratory works\AoCS\oop 4-6\oop 4-6\oop 4-6\bin\Debug\oop 4-6.exe
+E:\University\Laboratory works\AoCS\oop 4-6\oop 4-6\oop 4-6\bin\Debug\oop 4-6.pdb
+E:\University\Laboratory works\AoCS\oop 4-6\oop 4-6\oop 4-6\obj\Debug\avs-4-6.csprojResolveAssemblyReference.cache
+E:\University\Laboratory works\AoCS\oop 4-6\oop 4-6\oop 4-6\obj\Debug\avs-4-6.csproj.CoreCompileInputs.cache
+E:\University\Laboratory works\AoCS\oop 4-6\oop 4-6\oop 4-6\obj\Debug\oop 4-6.exe
+E:\University\Laboratory works\AoCS\oop 4-6\oop 4-6\oop 4-6\obj\Debug\oop 4-6.pdb
+E:\University\Laboratory works\AoCS\AVS-4-6\oop 4-6\oop 4-6\bin\Debug\oop 4-6.exe.config
+E:\University\Laboratory works\AoCS\AVS-4-6\oop 4-6\oop 4-6\bin\Debug\oop 4-6.exe
+E:\University\Laboratory works\AoCS\AVS-4-6\oop 4-6\oop 4-6\bin\Debug\oop 4-6.pdb
+E:\University\Laboratory works\AoCS\AVS-4-6\oop 4-6\oop 4-6\obj\Debug\avs-4-6.csprojResolveAssemblyReference.cache
+E:\University\Laboratory works\AoCS\AVS-4-6\oop 4-6\oop 4-6\obj\Debug\avs-4-6.csproj.CoreCompileInputs.cache
+E:\University\Laboratory works\AoCS\AVS-4-6\oop 4-6\oop 4-6\obj\Debug\oop 4-6.exe
+E:\University\Laboratory works\AoCS\AVS-4-6\oop 4-6\oop 4-6\obj\Debug\oop 4-6.pdb

@@ -1,0 +1,13 @@
+D:\study\AVS\AVS\Emulator\obj\Debug\Emulator.csprojResolveAssemblyReference.cache
+D:\study\AVS\AVS\Emulator\bin\Debug\Emulator.exe.config
+D:\study\AVS\AVS\Emulator\bin\Debug\Emulator.exe
+D:\study\AVS\AVS\Emulator\bin\Debug\Emulator.pdb
+D:\study\AVS\AVS\Emulator\obj\Debug\Emulator.exe
+D:\study\AVS\AVS\Emulator\obj\Debug\Emulator.pdb
+E:\University\Laboratory works\AoCS\AVS\Emulator\bin\Debug\Emulator.exe.config
+E:\University\Laboratory works\AoCS\AVS\Emulator\bin\Debug\Emulator.exe
+E:\University\Laboratory works\AoCS\AVS\Emulator\bin\Debug\Emulator.pdb
+E:\University\Laboratory works\AoCS\AVS\Emulator\obj\Debug\Emulator.csprojResolveAssemblyReference.cache
+E:\University\Laboratory works\AoCS\AVS\Emulator\obj\Debug\Emulator.csproj.CoreCompileInputs.cache
+E:\University\Laboratory works\AoCS\AVS\Emulator\obj\Debug\Emulator.exe
+E:\University\Laboratory works\AoCS\AVS\Emulator\obj\Debug\Emulator.pdb

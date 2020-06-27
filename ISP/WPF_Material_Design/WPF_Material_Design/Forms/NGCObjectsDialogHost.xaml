@@ -1,0 +1,103 @@
+﻿<Window x:Class="WPF_Material_Design.Forms.NGCObjectsDialogHost"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Material_Design.Forms"
+        mc:Ignorable="d"
+        Title="Космические объекты" 
+        Icon="E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\WPF_Material_Design\Data\Pictures\Shiba.ico"
+        Height="570.8" Width="448.2"
+        ResizeMode="NoResize">
+
+    <Window.Resources>
+
+        <SolidColorBrush x:Key="brushWatermarkBackground" Color="White" />
+        <SolidColorBrush x:Key="brushWatermarkForeground" Color="LightSteelBlue" />
+        <SolidColorBrush x:Key="brushWatermarkBorder" Color="Indigo" />
+
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
+
+        <Style x:Key="EntryFieldStyle" TargetType="Grid" >
+            <Setter Property="HorizontalAlignment" Value="Stretch" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+        </Style>
+
+    </Window.Resources>
+
+    <Grid Background="{StaticResource brushWatermarkBackground}" 
+          Style="{StaticResource EntryFieldStyle}"
+          Margin="0,0,3.6,0" VerticalAlignment="Top" Height="481">
+
+        <TextBlock HorizontalAlignment="Left" 
+                   Margin="10,10,0,0" 
+                   TextWrapping="Wrap" 
+                   Text="Космические объекты:" 
+                   VerticalAlignment="Top"
+                   FontSize="13"/>
+
+        <TextBlock FontSize="16" Margin="10,33,11.6,0" TextWrapping="Wrap" Text="Имя:" VerticalAlignment="Top" 
+                   Foreground="{StaticResource brushWatermarkForeground}"
+                   Visibility="{Binding ElementName=Name, Path=Text.IsEmpty, Converter={StaticResource BooleanToVisibilityConverter}}" />
+        <TextBox Name="Name" Background="Transparent" BorderBrush="{StaticResource brushWatermarkBorder}" Margin="10,33,10,0" Height="27" VerticalAlignment="Top" />
+
+        <TextBlock FontSize="16" Margin="10,68,11,0" TextWrapping="Wrap" Text="Созвездие:" VerticalAlignment="Top" 
+                   Foreground="{StaticResource brushWatermarkForeground}"
+                   Visibility="{Binding ElementName=Constellatoin, Path=Text.IsEmpty, Converter={StaticResource BooleanToVisibilityConverter}}" />
+        <TextBox Name="Constellatoin" Background="Transparent" BorderBrush="{StaticResource brushWatermarkBorder}" Margin="10,65,10,0" Height="30" VerticalAlignment="Top" />
+
+        <TextBlock FontSize="16" Margin="10,103,11.6,0" TextWrapping="Wrap" Text="Склоление:" VerticalAlignment="Top" 
+                   Foreground="{StaticResource brushWatermarkForeground}"
+                   Visibility="{Binding ElementName=Declination, Path=Text.IsEmpty, Converter={StaticResource BooleanToVisibilityConverter}}" />
+        <TextBox Name="Declination" Background="Transparent" BorderBrush="{StaticResource brushWatermarkBorder}" Margin="10,100,10,0" Height="29" VerticalAlignment="Top" />
+
+        <TextBlock FontSize="16" Margin="10,138,9.6,0" TextWrapping="Wrap" Text="Прямое восхождение:" VerticalAlignment="Top" 
+                   Foreground="{StaticResource brushWatermarkForeground}"
+                   Visibility="{Binding ElementName=Right_Ascension, Path=Text.IsEmpty, Converter={StaticResource BooleanToVisibilityConverter}}" />
+        <TextBox Name="Right_Ascension" Background="Transparent" BorderBrush="{StaticResource brushWatermarkBorder}" Margin="8,129,12,0" Height="35" VerticalAlignment="Top" />
+
+        <TextBlock FontSize="16" Margin="9,173,9.6,0" TextWrapping="Wrap" Text="Видимая звездная величина:" VerticalAlignment="Top" 
+                   Foreground="{StaticResource brushWatermarkForeground}"
+                   Visibility="{Binding ElementName=Apparent_Star_Magnitude, Path=Text.IsEmpty, Converter={StaticResource BooleanToVisibilityConverter}}" />
+        <TextBox Name="Apparent_Star_Magnitude" Background="Transparent" BorderBrush="{StaticResource brushWatermarkBorder}" Margin="10,171,10,0" Height="31" VerticalAlignment="Top" />
+
+        <TextBlock FontSize="16" Margin="10,208,11.6,0" TextWrapping="Wrap" Text="Красное смещение:" VerticalAlignment="Top" 
+                   Foreground="{StaticResource brushWatermarkForeground}"
+                   Visibility="{Binding ElementName=Redshift, Path=Text.IsEmpty, Converter={StaticResource BooleanToVisibilityConverter}}" />
+        <TextBox Name="Redshift" Background="Transparent" BorderBrush="{StaticResource brushWatermarkBorder}" Margin="10,207,10,0" Height="30" VerticalAlignment="Top" />
+
+        <TextBlock FontSize="16" Margin="10,243,10,217" TextWrapping="Wrap" Text="Расстояние:" 
+                   Foreground="{StaticResource brushWatermarkForeground}"
+                   Visibility="{Binding ElementName=Distance, Path=Text.IsEmpty, Converter={StaticResource BooleanToVisibilityConverter}}" />
+        <TextBox Name="Distance" Background="Transparent" BorderBrush="{StaticResource brushWatermarkBorder}" Margin="10,242,11,0" Height="29" VerticalAlignment="Top" />
+
+        <TextBlock FontSize="16" Margin="10,276,10,176" TextWrapping="Wrap" Text="Тип:" 
+                   Foreground="{StaticResource brushWatermarkForeground}"
+                   Visibility="{Binding ElementName=Type, Path=Text.IsEmpty, Converter={StaticResource BooleanToVisibilityConverter}}" />
+        <TextBox Name="Type" Background="Transparent" BorderBrush="{StaticResource brushWatermarkBorder}" Margin="10,276,8,0" Height="29" VerticalAlignment="Top" />
+
+
+        <TextBlock FontSize="16" Margin="12,453,4,0" TextWrapping="Wrap" Text="Информация:" VerticalAlignment="Top" 
+                   Foreground="{StaticResource brushWatermarkForeground}"
+                   Visibility="{Binding ElementName=Info, Path=Text.IsEmpty, Converter={StaticResource BooleanToVisibilityConverter}}" Height="25" />
+        <TextBox Name="Info" Background="Transparent" BorderBrush="{StaticResource brushWatermarkBorder}" Margin="10,323,5,0" Height="158" VerticalAlignment="Top" />
+
+
+        <Button x:Name="accept" 
+                Height="42" 
+                Content="Добавить"   
+                Style="{DynamicResource MaterialDesignFlatButton}" 
+                Canvas.Left="10" 
+                Canvas.Top="55" 
+                RenderTransformOrigin="0.529,-0.049" 
+                Margin="13,486,0,-47" HorizontalAlignment="Left" Width="206" VerticalAlignment="Top" Click="accept_Click"/>
+
+        <Button x:Name="cancel" 
+                Height="42" 
+                Content="Отменить" 
+                Style="{DynamicResource MaterialDesignFlatButton}" 
+                Margin="0,486,6,-47" HorizontalAlignment="Right" Width="206" RenderTransformOrigin="0.5,0.5" VerticalAlignment="Top" Click="cancel_Click" />
+
+
+    </Grid>
+</Window>

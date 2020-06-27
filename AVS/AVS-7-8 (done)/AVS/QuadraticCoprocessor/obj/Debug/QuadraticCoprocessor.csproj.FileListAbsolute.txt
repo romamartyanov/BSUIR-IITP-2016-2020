@@ -1,0 +1,13 @@
+D:\study\AVS\AVS\QuadraticCoprocessor\bin\Debug\QuadraticCoprocessor.exe.config
+D:\study\AVS\AVS\QuadraticCoprocessor\bin\Debug\QuadraticCoprocessor.exe
+D:\study\AVS\AVS\QuadraticCoprocessor\bin\Debug\QuadraticCoprocessor.pdb
+D:\study\AVS\AVS\QuadraticCoprocessor\obj\Debug\QuadraticCoprocessor.csprojResolveAssemblyReference.cache
+D:\study\AVS\AVS\QuadraticCoprocessor\obj\Debug\QuadraticCoprocessor.exe
+D:\study\AVS\AVS\QuadraticCoprocessor\obj\Debug\QuadraticCoprocessor.pdb
+E:\University\Laboratory works\AoCS\AVS-7-8\AVS\QuadraticCoprocessor\bin\Debug\QuadraticCoprocessor.exe.config
+E:\University\Laboratory works\AoCS\AVS-7-8\AVS\QuadraticCoprocessor\bin\Debug\QuadraticCoprocessor.exe
+E:\University\Laboratory works\AoCS\AVS-7-8\AVS\QuadraticCoprocessor\bin\Debug\QuadraticCoprocessor.pdb
+E:\University\Laboratory works\AoCS\AVS-7-8\AVS\QuadraticCoprocessor\obj\Debug\QuadraticCoprocessor.csprojResolveAssemblyReference.cache
+E:\University\Laboratory works\AoCS\AVS-7-8\AVS\QuadraticCoprocessor\obj\Debug\QuadraticCoprocessor.csproj.CoreCompileInputs.cache
+E:\University\Laboratory works\AoCS\AVS-7-8\AVS\QuadraticCoprocessor\obj\Debug\QuadraticCoprocessor.exe
+E:\University\Laboratory works\AoCS\AVS-7-8\AVS\QuadraticCoprocessor\obj\Debug\QuadraticCoprocessor.pdb

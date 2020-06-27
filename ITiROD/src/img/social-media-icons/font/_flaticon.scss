@@ -1,0 +1,149 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 13/02/2018 08:02
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("Flaticon.eot");
+  src: url("Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("Flaticon.woff") format("woff"),
+       url("Flaticon.ttf") format("truetype"),
+       url("Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-001-zootool:before { content: "\f100"; }
+.flaticon-002-youtube:before { content: "\f101"; }
+.flaticon-003-yahoo:before { content: "\f102"; }
+.flaticon-004-happy:before { content: "\f103"; }
+.flaticon-005-xing:before { content: "\f104"; }
+.flaticon-006-wordpress:before { content: "\f105"; }
+.flaticon-007-whatsapp:before { content: "\f106"; }
+.flaticon-008-wattpad:before { content: "\f107"; }
+.flaticon-009-vk:before { content: "\f108"; }
+.flaticon-010-vine:before { content: "\f109"; }
+.flaticon-011-vimeo:before { content: "\f10a"; }
+.flaticon-012-viddler:before { content: "\f10b"; }
+.flaticon-013-twitter-1:before { content: "\f10c"; }
+.flaticon-014-twitter:before { content: "\f10d"; }
+.flaticon-015-twitch:before { content: "\f10e"; }
+.flaticon-016-tumblr:before { content: "\f10f"; }
+.flaticon-017-team-viewer:before { content: "\f110"; }
+.flaticon-018-stumbleupon:before { content: "\f111"; }
+.flaticon-019-spotify:before { content: "\f112"; }
+.flaticon-020-soundcloud:before { content: "\f113"; }
+.flaticon-021-snapchat:before { content: "\f114"; }
+.flaticon-022-skype:before { content: "\f115"; }
+.flaticon-023-rss:before { content: "\f116"; }
+.flaticon-024-reddit:before { content: "\f117"; }
+.flaticon-025-plurk:before { content: "\f118"; }
+.flaticon-026-pinterest:before { content: "\f119"; }
+.flaticon-027-picasa:before { content: "\f11a"; }
+.flaticon-028-path:before { content: "\f11b"; }
+.flaticon-029-myspace-1:before { content: "\f11c"; }
+.flaticon-030-myspace:before { content: "\f11d"; }
+.flaticon-031-linkedin:before { content: "\f11e"; }
+.flaticon-032-like:before { content: "\f11f"; }
+.flaticon-033-kickstarter:before { content: "\f120"; }
+.flaticon-034-instagram:before { content: "\f121"; }
+.flaticon-035-google-plus:before { content: "\f122"; }
+.flaticon-036-photo:before { content: "\f123"; }
+.flaticon-037-hangouts:before { content: "\f124"; }
+.flaticon-038-google-drive:before { content: "\f125"; }
+.flaticon-039-github:before { content: "\f126"; }
+.flaticon-040-foursquare:before { content: "\f127"; }
+.flaticon-041-forrst:before { content: "\f128"; }
+.flaticon-042-flickr:before { content: "\f129"; }
+.flaticon-043-facebook-1:before { content: "\f12a"; }
+.flaticon-044-messenger:before { content: "\f12b"; }
+.flaticon-045-facebook:before { content: "\f12c"; }
+.flaticon-046-envato:before { content: "\f12d"; }
+.flaticon-047-dropbox:before { content: "\f12e"; }
+.flaticon-048-dribbble:before { content: "\f12f"; }
+.flaticon-049-dislike:before { content: "\f130"; }
+.flaticon-050-digg:before { content: "\f131"; }
+.flaticon-051-deviantart:before { content: "\f132"; }
+.flaticon-052-delicious:before { content: "\f133"; }
+.flaticon-053-blogger:before { content: "\f134"; }
+.flaticon-054-behance:before { content: "\f135"; }
+.flaticon-055-lastfm:before { content: "\f136"; }
+    
+    $font-Flaticon-001-zootool: "\f100";
+    $font-Flaticon-002-youtube: "\f101";
+    $font-Flaticon-003-yahoo: "\f102";
+    $font-Flaticon-004-happy: "\f103";
+    $font-Flaticon-005-xing: "\f104";
+    $font-Flaticon-006-wordpress: "\f105";
+    $font-Flaticon-007-whatsapp: "\f106";
+    $font-Flaticon-008-wattpad: "\f107";
+    $font-Flaticon-009-vk: "\f108";
+    $font-Flaticon-010-vine: "\f109";
+    $font-Flaticon-011-vimeo: "\f10a";
+    $font-Flaticon-012-viddler: "\f10b";
+    $font-Flaticon-013-twitter-1: "\f10c";
+    $font-Flaticon-014-twitter: "\f10d";
+    $font-Flaticon-015-twitch: "\f10e";
+    $font-Flaticon-016-tumblr: "\f10f";
+    $font-Flaticon-017-team-viewer: "\f110";
+    $font-Flaticon-018-stumbleupon: "\f111";
+    $font-Flaticon-019-spotify: "\f112";
+    $font-Flaticon-020-soundcloud: "\f113";
+    $font-Flaticon-021-snapchat: "\f114";
+    $font-Flaticon-022-skype: "\f115";
+    $font-Flaticon-023-rss: "\f116";
+    $font-Flaticon-024-reddit: "\f117";
+    $font-Flaticon-025-plurk: "\f118";
+    $font-Flaticon-026-pinterest: "\f119";
+    $font-Flaticon-027-picasa: "\f11a";
+    $font-Flaticon-028-path: "\f11b";
+    $font-Flaticon-029-myspace-1: "\f11c";
+    $font-Flaticon-030-myspace: "\f11d";
+    $font-Flaticon-031-linkedin: "\f11e";
+    $font-Flaticon-032-like: "\f11f";
+    $font-Flaticon-033-kickstarter: "\f120";
+    $font-Flaticon-034-instagram: "\f121";
+    $font-Flaticon-035-google-plus: "\f122";
+    $font-Flaticon-036-photo: "\f123";
+    $font-Flaticon-037-hangouts: "\f124";
+    $font-Flaticon-038-google-drive: "\f125";
+    $font-Flaticon-039-github: "\f126";
+    $font-Flaticon-040-foursquare: "\f127";
+    $font-Flaticon-041-forrst: "\f128";
+    $font-Flaticon-042-flickr: "\f129";
+    $font-Flaticon-043-facebook-1: "\f12a";
+    $font-Flaticon-044-messenger: "\f12b";
+    $font-Flaticon-045-facebook: "\f12c";
+    $font-Flaticon-046-envato: "\f12d";
+    $font-Flaticon-047-dropbox: "\f12e";
+    $font-Flaticon-048-dribbble: "\f12f";
+    $font-Flaticon-049-dislike: "\f130";
+    $font-Flaticon-050-digg: "\f131";
+    $font-Flaticon-051-deviantart: "\f132";
+    $font-Flaticon-052-delicious: "\f133";
+    $font-Flaticon-053-blogger: "\f134";
+    $font-Flaticon-054-behance: "\f135";
+    $font-Flaticon-055-lastfm: "\f136";

@@ -1,0 +1,6 @@
+D:\study\AVS\AVS\FloatEmulator\bin\Debug\FloatEmulator.exe.config
+D:\study\AVS\AVS\FloatEmulator\bin\Debug\FloatEmulator.exe
+D:\study\AVS\AVS\FloatEmulator\bin\Debug\FloatEmulator.pdb
+D:\study\AVS\AVS\FloatEmulator\obj\Debug\FloatEmulator.exe
+D:\study\AVS\AVS\FloatEmulator\obj\Debug\FloatEmulator.pdb
+D:\study\AVS\AVS\FloatEmulator\obj\Debug\FloatEmulator.csprojResolveAssemblyReference.cache

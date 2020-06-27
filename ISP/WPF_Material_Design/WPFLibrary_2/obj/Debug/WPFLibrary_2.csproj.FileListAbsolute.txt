@@ -1,0 +1,6 @@
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\WPFLibrary_2\bin\Debug\WPFLibrary_2.exe.config
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\WPFLibrary_2\bin\Debug\WPFLibrary_2.exe
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\WPFLibrary_2\bin\Debug\WPFLibrary_2.pdb
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\WPFLibrary_2\obj\Debug\WPFLibrary_2.csproj.CoreCompileInputs.cache
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\WPFLibrary_2\obj\Debug\WPFLibrary_2.exe
+E:\University\Laboratory works\CSharp\wpf-labs-3rd-semestr\WPF_Material_Design\WPFLibrary_2\obj\Debug\WPFLibrary_2.pdb
